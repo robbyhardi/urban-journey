@@ -1,3 +1,4 @@
 ini ngedit di master
 ini line pertama, tapi sudah diedit
 ini ngedit line di cabang1
+ini ngedit di cabang1
